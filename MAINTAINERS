@@ -1,0 +1,16 @@
+See CONTRIBUTING.md for details of gem5's contribution process.
+
+This file contains the keywords used in commit messages. Each keyword has one
+or more maintainers. At least one (not all) of these maintainers must review
+the patch before it can be pushed. These people will automatically be emailed
+when you upload the patch to Gerrit (https://gem5-review.googlesource.com).
+These keywords mostly follow the directory structure.
+
+Individuals on the project management committee are maintainers for all of the
+gem5 components (i.e., they can review any patch as the maintainer). These
+individuals are required to review any patches to components without explicit
+maintainers.
+
+PMC Members (general maintainers):
+Ruben Titos <rtitos@um.es>
+Raul Sanchez <raul@um.es>
